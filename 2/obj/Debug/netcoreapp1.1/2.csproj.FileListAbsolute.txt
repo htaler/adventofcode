@@ -1,0 +1,9 @@
+c:\code\advent\2\bin\Debug\netcoreapp1.1\2.deps.json
+c:\code\advent\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.json
+c:\code\advent\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.dev.json
+c:\code\advent\2\bin\Debug\netcoreapp1.1\2.dll
+c:\code\advent\2\bin\Debug\netcoreapp1.1\2.pdb
+c:\code\advent\2\obj\Debug\netcoreapp1.1\2.AssemblyInfo.cs
+c:\code\advent\2\obj\Debug\netcoreapp1.1\2.dll
+c:\code\advent\2\obj\Debug\netcoreapp1.1\2.pdb
+c:\code\advent\2\bin\Debug\netcoreapp1.1\input.txt
